@@ -1,2 +1,9 @@
-# cooperation-fit
-Connecting digital talent willing to cooperate with NGO or social projects who need help to set up and run digital projects
+# DJANGO REST FRAMEWORK CLEAN START
+Project that includes the basic setup for: 
+  - Django Web Framework
+  - Django Rest Framework
+  - Docker
+  - Docker Compose
+  - Postgres
+  - Travis CI
+  - Authenticate user with email instead of name
